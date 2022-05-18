@@ -36,6 +36,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{C36D3CEE-F39
 		Doc\fluxo-Projeto.PNG = Doc\fluxo-Projeto.PNG
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Domain.Tests", "CleanArchMvc.Domain.Tests\CleanArchMvc.Domain.Tests.csproj", "{548276D3-429A-4D4A-BC82-47EC08375323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{8B7D20CC-7838-43EA-AFE4-B281C6328203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7D20CC-7838-43EA-AFE4-B281C6328203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7D20CC-7838-43EA-AFE4-B281C6328203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548276D3-429A-4D4A-BC82-47EC08375323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548276D3-429A-4D4A-BC82-47EC08375323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548276D3-429A-4D4A-BC82-47EC08375323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548276D3-429A-4D4A-BC82-47EC08375323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{D5DE40B5-2155-4312-9BD4-EDDC0AD7C77F} = {F8A6D3D2-0A38-445D-BB0A-A6155E0C1232}
 		{8B7D20CC-7838-43EA-AFE4-B281C6328203} = {36EA2B92-FAE6-46C6-A8C9-97886D6C80D1}
 		{C36D3CEE-F395-49A9-A986-2E81BC566F9E} = {8A06B717-A72B-42B9-81FC-38385389DCCF}
+		{548276D3-429A-4D4A-BC82-47EC08375323} = {A00A9145-5AA9-4785-9F76-89B7F9556891}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {52CB3F1B-E388-47B4-BE9E-213E11C2D51D}
